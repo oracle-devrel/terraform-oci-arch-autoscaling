@@ -137,8 +137,8 @@
 
       ATP_private_endpoint:
         type: boolean
-        default: false
-        required: false
+        default: true
+        required: true
         title: "ATP Database Private Endpoint"
         description: "Check the box to deploy ATP Database with Private Endpoint."
         visible: 

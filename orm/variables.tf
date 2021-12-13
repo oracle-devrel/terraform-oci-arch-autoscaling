@@ -20,7 +20,7 @@ variable "availability_domain_number" {
 
 variable "release" {
   description = "Reference Architecture Release (OCI Architecture Center)"
-  default     = "1.4.1"
+  default     = "1.4.2"
 }
 
 variable "use_existing_vcn" {
