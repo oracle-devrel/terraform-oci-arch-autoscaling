@@ -1,5 +1,5 @@
 ## Create Autoscaling module + network injected into the module
-This is an example of how to use the module to deploy Autoscaling module and network cloud infrastrucutre elements injected to the module.
+This is an example of how to use the module to deploy Autoscaling module and network cloud infrastructure elements injected to the module.
   
 ### Using this example
 Update terraform.tfvars with the required information.
@@ -33,7 +33,7 @@ compartment_ocid = "<compartment_ocid>"
 ATP_password  = "<ATP_password>"
 ```
 
-Use Terraform to Provision resources:
+Use Terraform to provision resources:
 ```
 $ terraform apply
 ```
